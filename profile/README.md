@@ -31,6 +31,6 @@
 ![Windows 10](https://img.shields.io/badge/Windows%2010-ffffff?logo=windows&style=for-the-badge&color=008cff&logoColor=0078D6) ![Android](https://img.shields.io/badge/Android-ffffff?logo=android&style=for-the-badge&color=262626&logoColor=3DDC84)
 
 ### Кирилл Калямалькин
-![Ubuntu](https://img.shields.io/badge/Ubuntu-ffffff?logo=ubuntu&style=for-the-badge&color=262626&logoColor=E95420) ![Windows 11](https://img.shields.io/badge/Windows%2010-ffffff?logo=windows&style=for-the-badge&color=008cff&logoColor=0078D6) ![x16-PRos](https://img.shields.io/badge/x16--PRos-ffffff?style=for-the-badge&color=262626) ![Android](https://img.shields.io/badge/Android-ffffff?logo=android&style=for-the-badge&color=262626&logoColor=3DDC84)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-ffffff?logo=ubuntu&style=for-the-badge&color=262626&logoColor=E95420) ![Windows 11](https://img.shields.io/badge/Windows%2011-ffffff?logo=windows&style=for-the-badge&color=008cff&logoColor=0078D6) ![x16-PRos](https://img.shields.io/badge/x16--PRos-ffffff?style=for-the-badge&color=262626) ![Android](https://img.shields.io/badge/Android-ffffff?logo=android&style=for-the-badge&color=262626&logoColor=3DDC84)
 
 ![SubLogo](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3375de,100:71aee3&text=2025-2026%20BlueBerry%20Studio&fontColor=ffffff&section=footer&reversal=true&fontSize=20&fontAlignY=69&desc=Студия,%20которая%20не%20зависит%20от%20власти&descAlignY=88)
